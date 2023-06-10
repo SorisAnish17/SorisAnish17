@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SorisAnish17
+- 👋 Hi, I’m @SorisAnish
 - 👀 I’m interested in MERN Stack Developer.
 - 🌱 I’m currently learning Mern Stack Development.
 - 💞️ I’m looking to collaborate on Web development
