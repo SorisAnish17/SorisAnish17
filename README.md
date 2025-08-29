@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-arun&label=Profile%20views&color=0e75b6&style=flat" alt="prince-arun" /> </p>
 
-- 🌱 I’m a MERN Stack Developer**
+- 🌱 I’m a MERN Stack Developer
 
 - ⚡ Fun fact **I delights in coding and embarking on outdoor escapades.**
 
